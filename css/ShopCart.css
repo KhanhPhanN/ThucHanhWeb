@@ -1,0 +1,25 @@
+table tr td{
+    border: 0.05px solid red; 
+    text-align: center
+}
+table{
+    border-spacing: 0ch;
+    width: 700;
+}
+#vien{
+    text-align: left
+}
+.title{
+    background-color: #b9bfc9;
+}
+.Nhap1{
+    margin-left: 35px;
+    margin-top: 10px
+}
+.Nhap2{
+    margin-left: 30px;
+    margin-top: 10px
+}
+.nut{
+    background-color: #ffffff;
+}
